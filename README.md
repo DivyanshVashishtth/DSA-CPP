@@ -83,3 +83,11 @@ I'm solving problems consistently and focusing not only on getting an accepted s
 ⭐ If you're also learning DSA, feel free to explore the repository and learn along with me.
 
 One problem at a time. One concept at a time. 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/DivyanshVashishtth/DSA-CPP/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
